@@ -1,0 +1,13 @@
+{
+    "folders": [
+        {
+            "path": "."
+        },
+        {
+            "path": "..\\Trex_Stage_0-main"
+        }
+    ],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "Trex_Stage_0-main"
+    }
+}
